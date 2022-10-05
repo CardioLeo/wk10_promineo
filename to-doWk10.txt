@@ -1,0 +1,8 @@
+# Author: William Z Chadwick
+# Date Created: 10/04/2022
+# Date Modified: 10/05/2022
+# Description: A place for my Week 10 Promineo Tech Front End Bootcamp to do list
+
+---
+
+
