@@ -1,9 +1,11 @@
 # Author: William Z Chadwick
 # Date Created: 10/04/2022
-# Date Modified: 10/05/2022
+# Date Modified: 10/15/2022
 # Description: A place for my Week 10 Promineo Tech Front End Bootcamp to do list
 
 ---
+
+[note written in the NICU with 1wk old newborn son Wren: I have to catch up on the following weeks homework: Weeks 6, 8, 9, 10, 11 and now 12.]
 
 To Do for Week 10:
 
@@ -12,12 +14,20 @@ To Do Previous Weeks:
 Week 8:
 -Coding Assignment
 -Research
--Quiz
+---What is clearfix?
+---What is SASS? (CSS3?)
+---favorite thing learned this week? (quirk mode? other things?)
+
+-Quiz /
+--finish testing quiz docs (//)
+--upload answers (//)
 
 Week 9:
 [Like everything]
 
 Week 6:
 -finish main project
+
+helpful week 6 link: https://flaviocopes.com/how-to-shuffle-array-javascript/
 
 Does this mean I'm less behind than I thought I was?
