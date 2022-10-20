@@ -1,6 +1,6 @@
 # Author: William Z Chadwick
 # Date Created: 10/04/2022
-# Date Modified: 10/15/2022
+# Date Modified: 10/18/2022
 # Description: A place for my Week 10 Promineo Tech Front End Bootcamp to do list
 
 ---
@@ -13,6 +13,10 @@ To Do Previous Weeks:
 
 Week 8:
 -Coding Assignment
+---code all elements, use ids etc. //
+---make explanatory video (  )
+---what else? (  )
+---upload? (  )
 -Research
 ---What is clearfix?
 ---What is SASS? (CSS3?)
